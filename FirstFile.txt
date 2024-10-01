@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 First File in GitHub
 Changes made to file from local
+=======
+FirstFile in GitHub
+Changes made to file from git hub
+>>>>>>> e26d129376dfc80ec47e6c92da07f9f46fea6f4d
