@@ -1,1 +1,2 @@
-FirstFile in GitHub
+First File in GitHub
+Changes made to file from local
